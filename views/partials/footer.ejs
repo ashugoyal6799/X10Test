@@ -14,7 +14,7 @@
   var time = setInterval(myTimer, 1000);
 
 function myTimer() {
-    document.getElementById('timer').innerHTML = sec + "sec left";
+    document.getElementById('timer').innerHTML = sec + "sec ";
     sec--;
     if (sec == -1) {
         clearInterval(time);
