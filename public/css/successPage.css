@@ -26,7 +26,7 @@
 a:link, a:visited {
     background-color: 	#BC8F8F;
     color: white;
-    padding: 14px 25px;
+    padding: 14px 25px; 
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -53,4 +53,18 @@ a:hover, a:active {
 }  
 .resBox:hover{
     background-color: blue;
+}
+
+.regTop{
+    background-color: white;
+    margin-top: 50px;
+}
+
+.warningMsg{
+    color: red;
+}
+
+.que{
+    background-color: white;
+    margin-top: 20px;
 }
