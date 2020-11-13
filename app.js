@@ -4,6 +4,8 @@ const ejs = require("ejs");
 const _ = require('lodash');
 const mongoose = require('mongoose');
 const bcrypt = require('bcrypt');
+const {MONGOURI} = require('./config');
+
 
 const app = express();
 
@@ -12,7 +14,7 @@ app.set('view engine', 'ejs');
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(express.static("public"));
 
-mongoose.connect("mongodb://localhost:27017/x10tDB",{useNewUrlParser:true , useUnifiedTopology: true});
+mongoose.connect(MONGOURI,{ useNewUrlParser: true , useUnifiedTopology: true});
 
 const userSchema = {
     email:String,
