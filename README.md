@@ -14,3 +14,7 @@ Quiz Page:
 Score Page:
 ![image](https://user-images.githubusercontent.com/49397471/125188008-fa9fc300-e24f-11eb-8ee3-2a0003b48609.png)
 
+Result Page with Correct Answer and User Response:
+![image](https://user-images.githubusercontent.com/49397471/125188040-26bb4400-e250-11eb-9218-d069e5f0f2f7.png)
+
+Signup Page:
