@@ -11,3 +11,6 @@ Select any Topic
 Quiz Page:
 ![image](https://user-images.githubusercontent.com/49397471/125187966-c926f780-e24f-11eb-8e9b-4ea65ebdee2a.png)
 
+Score Page:
+![image](https://user-images.githubusercontent.com/49397471/125188008-fa9fc300-e24f-11eb-8ee3-2a0003b48609.png)
+
