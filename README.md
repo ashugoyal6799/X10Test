@@ -25,3 +25,6 @@ Login Page:
 
 Suggesting question:
 ![image](https://user-images.githubusercontent.com/49397471/125188273-ed370880-e250-11eb-8645-0924f606fe62.png)
+
+Suggested question submitted successfully page:
+![image](https://user-images.githubusercontent.com/49397471/125188304-0c359a80-e251-11eb-8fba-301d009e9ab3.png)
