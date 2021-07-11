@@ -5,4 +5,9 @@
 ### Users can Login and Signup for suggesting questions to the quiz platform.
 
 ## Screenshots: 
+Select any Topic 
 ![img-1](https://user-images.githubusercontent.com/49397471/125187868-5289fa00-e24f-11eb-9db8-22670f2adf10.png)
+
+Quiz Page:
+![image](https://user-images.githubusercontent.com/49397471/125187966-c926f780-e24f-11eb-8e9b-4ea65ebdee2a.png)
+
